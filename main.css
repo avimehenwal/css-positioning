@@ -15,10 +15,10 @@
 .child2 {
     background-color: pink;
     /* Break out of DOM */
-    position: absolute;
-    /* position: fixed; */
+    /* position: absolute; */
+    position: fixed;
     top: 0px;
-    left: 0px;
+    right: 0px;
 }
 
 .child3 {
